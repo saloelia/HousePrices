@@ -1,1 +1,1 @@
-This repository includes my ML Kaggle competitions. I`ve explored the data, removed and created new features, used cross-validation methods for optimizing hyper-parameters, and used the sklearn ML models for Regression & Classification tasks. 
+This repository includes my ML Kaggle competition - House Prices. I`ve explored the data, removed and created new features, used cross-validation methods for optimizing hyper-parameters, and used the sklearn ML models for Regression of House Prices in Chicago..
